@@ -52,4 +52,3 @@ print(glob.glob("/home/adam/*.txt"))
 ```python
 ['/home/adam/file1.txt', '/home/adam/file2.txt', .... ]
 ```
-
