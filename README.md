@@ -11,5 +11,6 @@ stackoverflow上python标签Votes数排名靠前的部分问题整理
 7. [列出一个文件夹中的所有文件](https://github.com/helloted/stackoverflow_top_python/blob/master/content/how-do-i-list-all-files-of-a-directory.md)
 8. [list方法append VS. extend](https://github.com/helloted/stackoverflow_top_python/blob/master/difference-between-append-vs-extend-list-methods-in-python.md)
 9. [@staticmethod与@classmethod的区别](https://github.com/helloted/stackoverflow_top_python/blob/master/what-is-the-difference-between-staticmethod-and-classmethod-in-python.md)
+10. [函数装饰器链](https://github.com/helloted/stackoverflow_top_python/blob/master/how-to-make-a-chain-of-function-decorators.md)
 
 
