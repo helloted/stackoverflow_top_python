@@ -12,4 +12,10 @@ import os
 os.system("your command")
 ```
 
-2、
+2、for循环获取index
+
+```python
+for idx, val in enumerate(list):
+    print(idx, val)
+```
+
