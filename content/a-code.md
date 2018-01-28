@@ -19,3 +19,10 @@ for idx, val in enumerate(list):
     print(idx, val)
 ```
 
+3、list里值的index
+
+```python
+>>> ["foo", "bar", "baz"].index("bar")
+1
+```
+
