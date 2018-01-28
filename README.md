@@ -12,5 +12,6 @@ stackoverflow上python标签Votes数排名靠前的部分问题整理
 8. [list方法append VS. extend](https://github.com/helloted/stackoverflow_top_python/blob/master/difference-between-append-vs-extend-list-methods-in-python.md)
 9. [@staticmethod与@classmethod的区别](https://github.com/helloted/stackoverflow_top_python/blob/master/what-is-the-difference-between-staticmethod-and-classmethod-in-python.md)
 10. [函数装饰器链](https://github.com/helloted/stackoverflow_top_python/blob/master/how-to-make-a-chain-of-function-decorators.md)
+11. [全局变量的使用](https://github.com/helloted/stackoverflow_top_python/blob/master/using-global-variables-in-a-function-other-than-the-one-that-created-them.md)
 
 
